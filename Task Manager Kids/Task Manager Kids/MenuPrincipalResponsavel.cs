@@ -16,5 +16,10 @@ namespace Task_Manager_Kids
         {
             InitializeComponent();
         }
+
+        private void guna2GradientPanel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

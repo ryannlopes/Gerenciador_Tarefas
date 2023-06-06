@@ -204,7 +204,7 @@ namespace Task_Manager_Kids
         private void label5_Click(object sender, EventArgs e)
         {
             Registro registro = new Registro(receivedVariable);
-            Registro.Show();
+            //Registro.Show();
             this.Hide();
         }
     }

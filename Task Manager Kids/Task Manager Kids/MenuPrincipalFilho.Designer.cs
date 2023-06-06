@@ -732,6 +732,7 @@
             this.label11.Size = new System.Drawing.Size(167, 19);
             this.label11.TabIndex = 3;
             this.label11.Text = "Guardar brinquedos";
+            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // label23
             // 

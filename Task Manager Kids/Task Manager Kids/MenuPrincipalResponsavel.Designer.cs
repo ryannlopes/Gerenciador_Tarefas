@@ -157,6 +157,7 @@
             this.guna2GradientPanel6.Name = "guna2GradientPanel6";
             this.guna2GradientPanel6.Size = new System.Drawing.Size(189, 108);
             this.guna2GradientPanel6.TabIndex = 4;
+            this.guna2GradientPanel6.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2GradientPanel6_Paint);
             // 
             // label9
             // 

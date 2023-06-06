@@ -74,5 +74,10 @@ namespace Task_Manager_Kids
         {
 
         }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -24,7 +24,7 @@ namespace Task_Manager_Kids
         private void guna2Button3_Click(object sender, EventArgs e)
         {
             Login login = new Login(receivedVariable);
-            Login.Show();
+           // Login.Show();
             this.Hide();
         }
 
