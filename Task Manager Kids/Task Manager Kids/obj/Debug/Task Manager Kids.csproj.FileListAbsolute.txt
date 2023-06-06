@@ -39,3 +39,15 @@ C:\Users\Usuario\source\repos\Task Manager Kids\Task Manager Kids\bin\Debug\Syst
 C:\Users\Usuario\source\repos\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.TelaInicial.resources
 C:\Users\Usuario\source\repos\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.MenuPrincipalFilho.resources
 C:\Users\Usuario\source\repos\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.MenuPrincipalResponsavel.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task Manager Kids.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task Manager Kids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.Login.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.MenuPrincipalFilho.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.MenuPrincipalResponsavel.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.Registro.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task_Manager_Kids.TelaInicial.resources
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task Manager Kids.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task Manager Kids.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task Manager Kids.exe
+C:\Users\Usuario\Documents\GitHub\Task_Manager_Kids\Task Manager Kids\Task Manager Kids\obj\Debug\Task Manager Kids.pdb

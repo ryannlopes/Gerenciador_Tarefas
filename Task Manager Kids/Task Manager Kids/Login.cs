@@ -195,5 +195,17 @@ namespace Task_Manager_Kids
             telainicial.Show();
             this.Hide();
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Registro registro = new Registro(receivedVariable);
+            Registro.Show();
+            this.Hide();
+        }
     }
 }
