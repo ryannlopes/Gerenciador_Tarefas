@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using taskManagerKidsAPI.Models;
+using Task = taskManagerKidsAPI.Models.Task;
 
 namespace taskManagerKidsAPI.Context;
 
@@ -12,5 +13,5 @@ public class AppDbContext : DbContext
 
     public DbSet<Kid>? Kids { get; set; }
     public DbSet<Parent>? Parents { get; set; }
-    public DbSet<taskManagerKidsAPI.Models.Task>? Tasks { get; set; }
+    public DbSet<Task>? Tasks { get; set; }
 }
