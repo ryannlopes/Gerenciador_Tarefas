@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace taskManagerKidsAPI.Models;
 
-public class Rewards
+public class Reward
 {
     public int Id { get; set; }
     [Required]
