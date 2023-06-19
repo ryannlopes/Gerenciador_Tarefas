@@ -14,4 +14,5 @@ public class AppDbContext : DbContext
     public DbSet<Kid>? Kids { get; set; }
     public DbSet<Parent>? Parents { get; set; }
     public DbSet<Task>? Tasks { get; set; }
+    public DbSet<Rewards>? Rewards { get; set; }
 }
