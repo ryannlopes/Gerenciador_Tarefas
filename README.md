@@ -44,9 +44,7 @@ Certifique-se de que todas as dependências e configurações necessárias para 
 
 #### 2.3.1 Fluxo Criar Tarefa
 
-![criarTarefa](https://github.com/ryannlopes/Task_Manager
-
-_Kids/assets/61668167/e527e074-f63e-4dd7-89c8-b0f627e1b370.png)
+![criarTarefa](https://github.com/ryannlopes/Task_Manager_Kids/assets/61668167/e527e074-f63e-4dd7-89c8-b0f627e1b370.png)
 
 #### 2.3.2 Fluxo Iniciar Tarefa
 
