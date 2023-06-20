@@ -1,11 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace taskManagerKidsAPI.Models;
 
 public class Task
 {
+    [JsonIgnore]
     public int Id { get; set; }
     [Required]
     [StringLength(50)]
@@ -29,5 +31,6 @@ public class Task
     [Column(TypeName = "int")]
     public int GainScore { get; set; }
     public int KidId { get; set; }
+    [JsonIgnore]
     public Kid? Kid { get; set; }
 }
