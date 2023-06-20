@@ -36,6 +36,8 @@ Certifique-se de que todas as dependências e configurações necessárias para 
 
 ![casodeuso](https://github.com/ryannlopes/Task_Manager_Kids/assets/61668167/3147f035-129a-4a4f-8edf-aaa66a89803b.png)
 
+![casodeusotrabalho drawio](https://github.com/ryannlopes/Task_Manager_Kids/assets/61668167/a952c848-8225-4fd5-a527-36b166ccdfb5)
+
 ### 2.2 Diagrama de Classe
 
 ![DiagramaClasse](https://github.com/ryannlopes/Task_Manager_Kids/assets/61668167/07c4c140-2cfc-4712-b5df-cbbbc74e97cb.png)
